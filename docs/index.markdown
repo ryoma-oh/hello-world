@@ -4,11 +4,12 @@
 
 layout: home
 title: "ソフトウェア工学 2024"
-permalink: /docs/index.markdown
+permalink: /docs/index
 ---
 
 # ソフトウェア工学 2024
 
 git/github演習
 
+[ホーム](/docs/index)
 [ソフトウェア工学概論](/docs/software-eng1)
