@@ -6,7 +6,7 @@ permalink: /docs/software-eng1
 
 # ソフトウェア工学 2024
 
-[ホーム](/docs/index.markdown)
+[ホーム](/docs/index)
 
 ## ソフトウェア工学概論
 
