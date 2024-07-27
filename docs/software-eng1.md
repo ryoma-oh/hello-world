@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "ソフトウェア工学概論"
-permalink: /docs/software-eng1.md
+permalink: /docs/software-eng1
 ---
 
 # ソフトウェア工学 2024
