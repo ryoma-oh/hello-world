@@ -19,12 +19,14 @@ permalink: /docs/software-eng5
 ・行を継続する場合は、折り返された要素を縦に揃える。
 
 '''
+
 us_cities = [
             'Detroit', 'Chicago',
             'Denver', 'Boston',
             'Portland', 'San Francisco',
             'Houston', 'Orlando'
             ]
+            
 '''
 
 ・1レベルインデントする事に、スペースを4つ使う。
