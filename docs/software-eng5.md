@@ -16,17 +16,15 @@ permalink: /docs/software-eng5
 
 ・画面に収まらなくなるため、1行の長さは79文字以内にする。docstringやコメントは72文字以内にする。
 
-・行を継続する場合は、折り返された要素を縦に揃える。
+・行を継続する場合は、以下のように折り返された要素を縦に揃える。
 
 ~~~
-
 us_cities = [
             'Detroit', 'Chicago',
             'Denver', 'Boston',
             'Portland', 'San Francisco',
             'Houston', 'Orlando'
             ]
-
 ~~~
 
 ・1レベルインデントする事に、スペースを4つ使う。
