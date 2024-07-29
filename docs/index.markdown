@@ -25,4 +25,6 @@ git/github演習
 
 [コーディング](/docs/software-eng5)
 
+[バージョン管理](/docs/software-eng6)
+
 
